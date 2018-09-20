@@ -1,0 +1,30 @@
+_repo: The-Magic-of-Spain_53001
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Aubrey F. G. (Aubrey Fitz Gerald)
+    aliases:
+    - Bell, Aubrey F.G.
+    - Bell, Aubrey Fitz Gerald
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '33309'
+    url: http://www.gutenberg.org/2009/agents/33309
+description: ''
+gutenberg_issued: '2016-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53001'
+  lccn: '11035970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcsh 'Spanish literature -- History and criticism'
+- !lcc 'PQ'
+- !lcc 'DP'
+- GITenberg
+title: The Magic of Spain
+url: http://www.gutenberg.org/ebooks/53001
