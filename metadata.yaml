@@ -1,5 +1,8 @@
 _repo: The-Magic-of-Spain_53001
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53001-h/images/cover.jpg
 creator:
   author:
     agent_name: Bell, Aubrey F. G. (Aubrey Fitz Gerald)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '33309'
     url: http://www.gutenberg.org/2009/agents/33309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53001#The-Magic-of-Spain
 gutenberg_issued: '2016-09-07'
 gutenberg_type: Text
 identifiers:
